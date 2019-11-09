@@ -1,0 +1,6 @@
+
+parse_dir_output/testdata/*
+parse_dir_output/output/*
+parse_excel/output/*
+ml_isolation_forest/kddcup.data.corrected
+ml_isolation_forest/kddcup.data_10_percent_corrected

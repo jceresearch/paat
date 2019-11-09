@@ -1,0 +1,25 @@
+Collecting package metadata (current_repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: /Users/juanespasandin/anaconda3
+
+  added / updated specs:
+    - plotly
+
+
+The following packages will be downloaded:
+
+    package                    |            build
+    ---------------------------|-----------------
+    plotly-4.1.1               |             py_0         4.0 MB  plotly
+    ------------------------------------------------------------
+                                           Total:         4.0 MB
+
+The following packages will be SUPERSEDED by a higher-priority channel:
+
+  plotly                                          pkgs/main --> plotly
+
+
+Proceed ([y]/n)? 
